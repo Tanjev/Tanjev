@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Tanjev and i come from Germany and i live in "Sachsen-Anhalt" or "Saxony-Anhalt"
+- 👀 I’m interested in GLUA scripting and gaming
+- 🌱 I’m currently learning LUA with GLUA
+- 💞️ I’m looking to collaborate with other Garry's Mod Coders
+- 📫 How to reach me: Discord (awtanjev) and Steam ([AR] Tanjev)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am better in english than german
